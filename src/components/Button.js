@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const Button = (props) => (
+export const Button = ({ label = 'Botón', type}) => (
   <button>
-
+      { label }
   </button>
 )

@@ -7,7 +7,7 @@ import { Routes } from './pages/Routes'
 export const App = () => {
   return (
       <Router>
-
+          <Routes />
       </Router> 
   )
 }
