@@ -9,9 +9,9 @@ const buttonStyle = {
 }
 
 export const DetailPage = ()  => (
-    <section className='page'>
+    <Fragment>
         <Title label="Parapente San Felix" />
         <CardDetail />
         <Button style={ buttonStyle } label='Reserva ahora!' />
-    </section>
+    </Fragment>
 )
