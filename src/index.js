@@ -1,5 +1,5 @@
 import React from 'react'
-import ReactDom from 'ReactDom'
+import ReactDOM from 'ReactDom'
 import './index.css'
 import {App} from './App'
 
